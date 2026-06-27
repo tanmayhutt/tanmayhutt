@@ -87,28 +87,16 @@ const tanmay = {
 
 ---
 
-<!-- ════════════════ GITHUB STATS ════════════════ -->
-
-## GitHub Stats
+<!-- ════════════════ LANGUAGES ════════════════ -->
 
 <div align="center">
 
 <a href="https://github.com/tanmayhutt">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmayhutt&show_icons=true&theme=transparent&title_color=9b72c8&icon_color=6f5488&text_color=f0f0f5&border_color=434553&ring_color=6f5488" alt="GitHub Stats"/>
-</a>
-&nbsp;
-<a href="https://github.com/tanmayhutt">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayhutt&layout=compact&theme=transparent&title_color=9b72c8&text_color=f0f0f5&border_color=434553&langs_count=6" alt="Top Languages"/>
-</a>
-
-<br/><br/>
-
-<!-- GitHub Streak -->
-<a href="https://github.com/tanmayhutt">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tanmayhutt&theme=transparent&hide_border=false&border=434553&ring=6f5488&fire=9b72c8&currStreakLabel=9b72c8&sideLabels=f0f0f5&dates=8a8b9a&stroke=434553&background=00000000" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanmayhutt&layout=compact&theme=transparent&title_color=9b72c8&text_color=f0f0f5&border_color=434553&langs_count=6&hide_border=false" alt="Top Languages"/>
 </a>
 
 </div>
+
 
 ---
 
