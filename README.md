@@ -94,7 +94,7 @@ const tanmay = {
 <div align="center">
 
 <a href="https://github.com/tanmayhutt">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmayhutt&show_icons=true&theme=transparent&title_color=9b72c8&icon_color=6f5488&text_color=f0f0f5&border_color=434553&ring_color=6f5488&include_all_commits=true" alt="GitHub Stats"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=tanmayhutt&show_icons=true&theme=transparent&title_color=9b72c8&icon_color=6f5488&text_color=f0f0f5&border_color=434553&ring_color=6f5488" alt="GitHub Stats"/>
 </a>
 &nbsp;
 <a href="https://github.com/tanmayhutt">
