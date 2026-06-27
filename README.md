@@ -35,31 +35,6 @@
 
 ---
 
-<!-- ════════════════ ABOUT ════════════════ -->
-
-## About Me
-
-```typescript
-const tanmay = {
-  handle:    "@tanmayhutt",
-  languages: ["TypeScript", "C++", "C", "GLSL"],
-
-  // things I actually built
-  projects: {
-    "hyprland-dotfiles":          "GLSL shaders + full Hyprland rice  ★15",
-    "WiFiSense":                  "ESP8266 WiFi presence detection in C++  ★3",
-    "GitWall":                    "GitHub graph -> iOS wallpaper  (gitwall.space)",
-    "Youtube-Blend":              "YouTube palette extractor  (youtube-blend.vercel.app)",
-    "Road-Condition-Monitoring":  "Embedded road monitoring system in C",
-    "ivi-homescreen-plugins":     "Toyota IVI plugin contributions in C++",
-  },
-
-  environment:  ["Hyprland", "Linux", "Wayland", "VSCode"],
-  currentFocus: "tools that sit at the edge of software and hardware",
-};
-```
-
----
 
 <!-- ════════════════ TECH STACK ════════════════ -->
 
