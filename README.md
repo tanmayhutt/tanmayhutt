@@ -52,7 +52,7 @@ NOTE: GitHub renders HTML + Markdown in READMEs.
 
 <!-- ════════════════ ABOUT ════════════════ -->
 
-## 👾 About Me
+## About Me
 
 ```typescript
 const tanmay = {
@@ -70,7 +70,7 @@ const tanmay = {
 
 <!-- ════════════════ TECH STACK ════════════════ -->
 
-## 🛠 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -96,7 +96,7 @@ const tanmay = {
 
 <!-- ════════════════ GITHUB STATS ════════════════ -->
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -121,7 +121,7 @@ const tanmay = {
 
 <!-- ════════════════ CONTRIBUTION GRAPH ════════════════ -->
 
-## 🟢 Contribution Activity
+## Contribution Activity
 
 <div align="center">
   <a href="https://github.com/tanmayhutt">
@@ -133,7 +133,7 @@ const tanmay = {
 
 <!-- ════════════════ FEATURED PROJECTS ════════════════ -->
 
-## 🚀 Featured Projects
+## Featured Projects
 
 <div align="center">
 
