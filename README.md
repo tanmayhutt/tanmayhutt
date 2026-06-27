@@ -3,17 +3,6 @@
 ║       TANMAY TIWARI — GITHUB PROFILE README       ║
 ║       Repo: tanmayhutt/tanmayhutt                 ║
 ╚═══════════════════════════════════════════════════╝
-
-HOW TO USE THIS:
-1. Create a repo on GitHub named exactly: tanmayhutt
-   → github.com/new → name it "tanmayhutt"
-2. Make it Public, check "Add a README file"
-3. Replace the README content with THIS file
-4. Commit → your GitHub profile will instantly update
-
-NOTE: GitHub renders HTML + Markdown in READMEs.
-      Some features (JS, CSS) don't work, but SVG,
-      HTML tags, and <img align> tricks all do.
 -->
 
 <div align="center">
@@ -21,13 +10,13 @@ NOTE: GitHub renders HTML + Markdown in READMEs.
 <!-- ════════════════ HEADER BANNER ════════════════ -->
 
 <a href="https://tanmayhutt.github.io">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f5488&height=200&section=header&text=Tanmay%20Tiwari&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=Developer%20%E2%80%A2%20Builder%20%E2%80%A2%20Open-Source%20Enthusiast&descAlignY=58&descSize=18&descColor=c4a1e8&animation=fadeIn" width="100%" alt="Header Banner"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=6f5488&height=180&section=header&text=Tanmay%20Tiwari&fontSize=56&fontColor=ffffff&fontAlignY=38&desc=TypeScript%20%C2%B7%20C%2B%2B%20%C2%B7%20GLSL%20%C2%B7%20Embedded&descAlignY=58&descSize=17&descColor=c4a1e8&animation=fadeIn" width="100%" alt="Header Banner"/>
 </a>
 
 <!-- ════════════════ TYPING ANIMATION ════════════════ -->
 
 <a href="https://tanmayhutt.github.io">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=9B72C8&center=true&vCenter=true&width=600&lines=Building+tools+that+matter+%F0%9F%9B%A0%EF%B8%8F;TypeScript+%C2%B7+C%2B%2B+%C2%B7+GLSL+%C2%B7+Embedded;518+contributions+in+the+last+year+%F0%9F%9F%A2;Crafting+pixels+%26+pushing+commits+%F0%9F%9A%80" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&pause=1200&color=9B72C8&center=true&vCenter=true&width=640&lines=Writing+GLSL+shaders+for+Hyprland+%E2%80%94+%E2%98%8515+stars;C%2B%2B+on+bare+metal+%E2%80%94+WiFi+sensing+on+ESP8266;TypeScript+tools+that+turn+data+into+something+visual;gitwall.space+%E2%80%94+your+commit+graph+as+an+iOS+wallpaper;14+repos%2C+0+plans+to+slow+down" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -38,13 +27,9 @@ NOTE: GitHub renders HTML + Markdown in READMEs.
   <img src="https://img.shields.io/github/followers/tanmayhutt?label=Followers&style=for-the-badge&logo=github&logoColor=white&color=6f5488&labelColor=1a1b22" alt="Followers"/>
 </a>
 &nbsp;
-<a href="https://github.com/tanmayhutt?tab=repositories">
-  <img src="https://img.shields.io/badge/Repos-13-6f5488?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b22" alt="Repos"/>
-</a>
+<img src="https://img.shields.io/badge/Repos-14-6f5488?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b22" alt="Repos"/>
 &nbsp;
-<img src="https://img.shields.io/badge/Contributions-518-9b72c8?style=for-the-badge&logo=githubactions&logoColor=white&labelColor=1a1b22" alt="Contributions"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PRO%20Member-GitHub-6f5488?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b22" alt="Pro"/>
+<img src="https://img.shields.io/badge/PRO-GitHub-9b72c8?style=for-the-badge&logo=github&logoColor=white&labelColor=1a1b22" alt="Pro"/>
 
 </div>
 
@@ -56,13 +41,21 @@ NOTE: GitHub renders HTML + Markdown in READMEs.
 
 ```typescript
 const tanmay = {
-  name:       "Tanmay Tiwari",
-  handle:     "@tanmayhutt",
-  focus:      ["TypeScript", "C++", "Embedded Systems", "GLSL"],
-  building:   "Tools that turn data into art",
-  interests:  ["Wallpaper generators", "WiFi monitoring", "Hyprland ricing"],
-  github:     "https://tanmayhutt.github.io",
-  status:     "🟢 Available for collaboration",
+  handle:    "@tanmayhutt",
+  languages: ["TypeScript", "C++", "C", "GLSL"],
+
+  // things I actually built
+  projects: {
+    "hyprland-dotfiles":          "GLSL shaders + full Hyprland rice  ★15",
+    "WiFiSense":                  "ESP8266 WiFi presence detection in C++  ★3",
+    "GitWall":                    "GitHub graph -> iOS wallpaper  (gitwall.space)",
+    "Youtube-Blend":              "YouTube palette extractor  (youtube-blend.vercel.app)",
+    "Road-Condition-Monitoring":  "Embedded road monitoring system in C",
+    "ivi-homescreen-plugins":     "Toyota IVI plugin contributions in C++",
+  },
+
+  environment:  ["Hyprland", "Linux", "Wayland", "VSCode"],
+  currentFocus: "tools that sit at the edge of software and hardware",
 };
 ```
 
@@ -133,22 +126,22 @@ const tanmay = {
 
 <!-- ════════════════ FEATURED PROJECTS ════════════════ -->
 
-## Featured Projects
+## Projects
 
 <div align="center">
 
-<a href="https://github.com/tanmayhutt/GitWall">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayhutt&repo=GitWall&theme=transparent&title_color=9b72c8&text_color=f0f0f5&border_color=434553&icon_color=6f5488" alt="GitWall"/>
-</a>
-&nbsp;
 <a href="https://github.com/tanmayhutt/hyprland-dotfiles">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayhutt&repo=hyprland-dotfiles&theme=transparent&title_color=9b72c8&text_color=f0f0f5&border_color=434553&icon_color=6f5488" alt="hyprland-dotfiles"/>
+</a>
+&nbsp;
+<a href="https://github.com/tanmayhutt/WiFiSense">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayhutt&repo=WiFiSense&theme=transparent&title_color=9b72c8&text_color=f0f0f5&border_color=434553&icon_color=6f5488" alt="WiFiSense"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/tanmayhutt/WiFiSense">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayhutt&repo=WiFiSense&theme=transparent&title_color=9b72c8&text_color=f0f0f5&border_color=434553&icon_color=6f5488" alt="WiFiSense"/>
+<a href="https://github.com/tanmayhutt/GitWall">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=tanmayhutt&repo=GitWall&theme=transparent&title_color=9b72c8&text_color=f0f0f5&border_color=434553&icon_color=6f5488" alt="GitWall"/>
 </a>
 &nbsp;
 <a href="https://github.com/tanmayhutt/Youtube-Blend">
@@ -164,7 +157,7 @@ const tanmay = {
 <div align="center">
 
 <a href="https://tanmayhutt.github.io">
-  <img src="https://img.shields.io/badge/🌐%20Portfolio-tanmayhutt.github.io-6f5488?style=for-the-badge&labelColor=1a1b22" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/tanmayhutt.github.io-Portfolio-6f5488?style=for-the-badge&labelColor=1a1b22" alt="Portfolio"/>
 </a>
 
 <br/><br/>
